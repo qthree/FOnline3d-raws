@@ -1,0 +1,50 @@
+# Exported from Wings 3D 1.2
+newmtl Female_elegantsuit_bodyclothes
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd suit_fem_texture copy.png
+
+newmtl Female_elegantsuit_bodyskin
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd suit_fem_texture copy.png
+
+newmtl Female_elegantsuit_coat
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd suit2_jacket copy.png
+
+newmtl Female_elegantsuit_hat
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd suit2_hat copy.png
+
+newmtl default
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+

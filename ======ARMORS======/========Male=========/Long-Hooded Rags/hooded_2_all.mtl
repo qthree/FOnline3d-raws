@@ -1,0 +1,31 @@
+# Exported from Wings 3D 1.2
+newmtl hooded_1_body
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd hooded_1_body copy.png
+
+newmtl hooded_1_hood
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd hooded_1_hood copy.png
+
+newmtl hooded_2_coat
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd hooded_2_coat copy.png
+

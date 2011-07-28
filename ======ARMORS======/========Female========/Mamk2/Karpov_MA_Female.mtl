@@ -1,0 +1,178 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 19.02.2011 22:50:24
+
+newmtl 01___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5569 0.2745 0.2745
+	Kd 0.5569 0.2745 0.2745
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__183
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5843 0.5843 0.5843
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5569 0.2745 0.2745
+	Kd 0.5569 0.2745 0.2745
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 03___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5569 0.2745 0.2745
+	Kd 0.5569 0.2745 0.2745
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 13___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2510 0.2039 0.1529
+	Kd 0.2510 0.2039 0.1529
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 15___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2510 0.2039 0.1529
+	Kd 0.2510 0.2039 0.1529
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 07___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2510 0.2039 0.1529
+	Kd 0.2510 0.2039 0.1529
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 14___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2510 0.2039 0.1529
+	Kd 0.2510 0.2039 0.1529
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 08___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1529 0.1529 0.1529
+	Kd 0.1529 0.1529 0.1529
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 09___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7961 0.6941 0.5882
+	Kd 0.7961 0.6941 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__25
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\VB\SRC\X-MODELS\Karpov\Female_MA.png
+	map_Kd D:\VB\SRC\X-MODELS\Karpov\Female_MA.png
+
+newmtl Bracer
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\VB\SRC\X-MODELS\Karpov\HanMetalArmor_default_LG.tga
+	map_Kd D:\VB\SRC\X-MODELS\Karpov\HanMetalArmor_default_LG.tga
+
+newmtl Shoulders
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\VB\SRC\X-MODELS\Karpov\ShoMetalArmor_default_LG.tga
+	map_Kd D:\VB\SRC\X-MODELS\Karpov\ShoMetalArmor_default_LG.tga
+
+newmtl Boots
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\VB\SRC\X-MODELS\Karpov\FeeMetalArmor_default_LG.tga
+	map_Kd D:\VB\SRC\X-MODELS\Karpov\FeeMetalArmor_default_LG.tga

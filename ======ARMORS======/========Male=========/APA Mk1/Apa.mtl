@@ -1,0 +1,44 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 14.07.2011 21:31:21
+
+newmtl Material__36
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka E:\1NewProect\Horacters\APAenclave\apa4.dds
+	map_Kd E:\1NewProect\Horacters\APAenclave\apa4.dds
+
+newmtl RetopoGroup1
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka E:\1NewProect\Horacters\APAenclave\apa3.dds
+	map_Kd E:\1NewProect\Horacters\APAenclave\apa3.dds
+
+newmtl APAS3_RetopoGroup1
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka E:\1NewProect\Horacters\APAenclave\apa2.dds
+	map_Kd E:\1NewProect\Horacters\APAenclave\apa2.dds

@@ -1,0 +1,94 @@
+# Wavefront MTL
+# Created by fragMOTION
+# http://www.fragmosoft.com
+
+newmtl Material__160_02_-_DefaultSub0
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0 0 0
+ke 0 0 0
+ns 3.2
+map_kd Male_jmpsuit.jpg
+newmtl Material__160_01_-_DefaultSub1
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0 0 0
+ke 0 0 0
+ns 3.2
+map_kd Male_jmpsuit.jpg
+newmtl Material__160_03_-_DefaultSub2
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0 0 0
+ke 0 0 0
+ns 3.2
+map_kd Male_jmpsuit.jpg
+newmtl Material__160_07_-_DefaultSub3
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0 0 0
+ke 0 0 0
+ns 3.2
+map_kd Male_jmpsuit.jpg
+newmtl Material__160_08_-_DefaultSub4
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0 0 0
+ke 0 0 0
+ns 3.2
+map_kd Male_jmpsuit.jpg
+newmtl Material__160_09_-_DefaultSub5
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0 0 0
+ke 0 0 0
+ns 3.2
+map_kd Male_jmpsuit.jpg
+newmtl Material__160_13_-_DefaultSub6
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0 0 0
+ke 0 0 0
+ns 3.2
+map_kd Male_jmpsuit.jpg
+newmtl Material__160_14_-_DefaultSub7
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0 0 0
+ke 0 0 0
+ns 3.2
+map_kd Male_jmpsuit.jpg
+newmtl Material__160_15_-_DefaultSub8
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0 0 0
+ke 0 0 0
+ns 3.2
+map_kd Male_jmpsuit.jpg
+newmtl Material__29
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0 0 0
+ke 0 0 0
+ns 128
+map_kd HeaPowerArmor_Default_LG.tga

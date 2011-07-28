@@ -1,0 +1,38 @@
+# Wavefront MTL
+# Created by fragMOTION
+# http://www.fragmosoft.com
+
+newmtl Karpov_APA_Universal_mso_defaultSub0
+illum 2
+d 1
+ka 0.705882 0.588235 0.760784
+kd 0.705882 0.588235 0.760784
+ks 0 0 0
+ke 0 0 0
+ns 3.2
+newmtl Karpov_APA_Universal_mso_01___DefaultSub1
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0 0 0
+ke 0 0 0
+ns 3.2
+map_kd BodAPA_Default_LG.tga
+newmtl Karpov_APA_Universal_mso_Material__25Sub2
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0 0 0
+ke 0 0 0
+ns 3.2
+map_kd HeaAPA_Default_LG.tga
+newmtl Karpov_APA_Universal_mso_09___DefaultSub3
+illum 2
+d 1
+ka 0.419608 0.67451 0.321569
+kd 0.419608 0.67451 0.321569
+ks 0 0 0
+ke 0 0 0
+ns 3.2

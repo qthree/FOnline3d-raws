@@ -1,0 +1,13 @@
+# Wavefront MTL
+# Created by fragMOTION
+# http://www.fragmosoft.com
+
+newmtl PDX12_-_Default
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0 0 0
+ke 0 0 0
+ns 3.2
+map_kd f_clj_jacket4.png
