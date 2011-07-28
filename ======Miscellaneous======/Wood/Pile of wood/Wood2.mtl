@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 24.05.2011 18:45:46
+
+newmtl 01___Default
+	Ns 6.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.1620 0.1620 0.1620
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\M to the B\Desktop\House Multi\Misc\Wood\TEx\UVWMapneu2.png
+	map_Kd C:\Users\M to the B\Desktop\House Multi\Misc\Wood\TEx\UVWMapneu2.png
