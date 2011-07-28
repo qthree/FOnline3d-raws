@@ -1,0 +1,30 @@
+# Exported from Wings 3D 1.2
+newmtl 11 - Default
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd female_gnsmth.jpg
+
+newmtl default
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl he_jacket_et
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.8 0.8 0.8
+Ka 0.4 0.4 0.4
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd he_jacket_etc1.jpg
+

@@ -1,0 +1,128 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 18.02.2011 12:57:34
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\leatherarmor\female_base.jpg
+	map_Kd C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\leatherarmor\female_base.jpg
+
+newmtl default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\leatherarmor\leatherarmorbody_fm.jpg
+	map_Kd C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\leatherarmor\leatherarmorbody_fm.jpg
+
+newmtl Material__67
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\reference\Female_b.jpg
+	map_Kd C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\reference\Female_b.jpg
+
+newmtl Material__68
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\reference\Female_b.jpg
+	map_Kd C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\reference\Female_b.jpg
+
+newmtl Material__69
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\leatherarmor\leatherarmorbody_fm.jpg
+	map_Kd C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\leatherarmor\leatherarmorbody_fm.jpg
+
+newmtl Material__71
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\leatherarmor\leatherarmorbody_fm.jpg
+	map_Kd C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\leatherarmor\leatherarmorbody_fm.jpg
+
+newmtl Material__72
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\leatherarmor\leatherarmorbody_fm.jpg
+	map_Kd C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\leatherarmor\leatherarmorbody_fm.jpg
+
+newmtl Material__73
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\leatherarmor\leatherarmor_fm.png
+	map_Kd C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\leatherarmor\leatherarmor_fm.png
+
+newmtl Material__192
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\leatherarmor\leatherarmorbody_fm.jpg
+	map_Kd C:\Users\Tomi\Documents\3dsmax\scenes\fonline\characters\leatherarmor\leatherarmorbody_fm.jpg

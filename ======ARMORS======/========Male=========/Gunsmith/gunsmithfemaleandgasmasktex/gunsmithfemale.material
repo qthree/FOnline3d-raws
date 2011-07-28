@@ -1,0 +1,48 @@
+material 
+{
+	technique
+	{
+		pass
+		{
+		}
+	}
+}
+
+material he_jacket_et
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.4 0.4 0.4
+			diffuse 0.8 0.8 0.8
+			specular 1 1 1 40
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture he_jacke.000
+				filtering point point point
+			}
+		}
+	}
+}
+material 11 - Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.294118 0.294118 0.294118
+			diffuse 0.588235 0.588235 0.588235
+			specular 1 1 1 40
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture female_gnsmt
+				filtering point point point
+			}
+		}
+	}
+}

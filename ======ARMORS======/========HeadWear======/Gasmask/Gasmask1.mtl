@@ -1,0 +1,13 @@
+# Blender3D MTL File: heoutfit4_all.obj.blend
+# Material Count: 1
+newmtl gasmask1_gasmaskwip2._gasmaskwip2.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.300913 0.438337 0.260633
+Ks 0.160487 0.160487 0.160487
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd gasmaskwip.jpg
+
+

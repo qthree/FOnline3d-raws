@@ -1,0 +1,338 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 23.07.2011 18:58:43
+
+newmtl Material__92
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\enclave_armor_clothing.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\enclave_armor_clothing.jpg
+
+newmtl Material__79
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing.jpg
+
+newmtl Material__78
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing.jpg
+
+newmtl Material__85
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing.jpg
+
+newmtl Material__75
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing.jpg
+
+newmtl Material__73
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing.jpg
+
+newmtl Material__74
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing.jpg
+
+newmtl Material__81
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing_ghoul.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing_ghoul.jpg
+
+newmtl Material__82
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\combat_armor_clothing.jpg
+
+newmtl Material__88
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_mk2.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_mk2.jpg
+
+newmtl Material__43
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+
+newmtl Material__42
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+
+newmtl Material__41
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+
+newmtl Material__45
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+
+newmtl Material__46
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+
+newmtl Material__44
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+
+newmtl Material__80
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+
+newmtl Material__87
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_Enc.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_Enc.jpg
+
+newmtl Material__86
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_BOS.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_BOS.jpg
+
+newmtl Material__70
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+
+newmtl Material__68
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+
+newmtl Material__71
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+
+newmtl Material__67
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+
+newmtl Material__72
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
+	map_Kd C:\Users\Граф\Desktop\Fonline 3D\======ARMORS======\========Male=========\Combat Armor\CA_standard.jpg
