@@ -1,0 +1,41 @@
+In the section labelled :
+
+# Body
+Layer 3
+
+Paste everything between the '#'s :
+
+#########################
+  Value 26 Root DisableSubset 3-6-8 Attach Armor_%anim%_ironman.x Texture 0 Armor_male_ironman_coat.png
+#########################
+
+In the section labelled :
+
+# Head --------------------------
+Layer 4
+
+Paste everything between the '#'s :
+
+#########################
+  Value 26 Root DisableLayer 7 Attach Armor_male_ironmask.x Texture 0 Armor_male_ironman_mask.png
+#########################
+
+In the section labelled :
+
+# ArmorClothing --------------------------------------
+Layer 5
+
+Paste everything between the '#'s :
+
+#########################
+  Value 26 Root
+		Subset 0 Texture 0 Armor_%anim%_ironman_body.png
+		Subset 1 Texture 0 Armor_%anim%_ironman_body.png
+		Subset 2 Texture 0 Armor_%anim%_ironman_body.png
+		Subset 3 Texture 0 Armor_%anim%_ironman_body.png
+		Subset 4 Texture 0 Armor_%anim%_ironman_body.png
+		Subset 5 Texture 0 Armor_%anim%_ironman_body.png
+		Subset 6 Texture 0 Armor_%anim%_ironman_body.png
+		Subset 7 Texture 0 Armor_%anim%_ironman_body.png
+		Subset 8 Texture 0 Armor_%anim%_ironman_body.png
+#########################
