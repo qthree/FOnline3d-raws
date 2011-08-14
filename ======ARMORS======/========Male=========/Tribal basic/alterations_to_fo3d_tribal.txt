@@ -1,0 +1,25 @@
+In the section labelled :
+
+# Body
+Layer 3
+
+Paste everything between the '#'s :
+
+#########################
+  Value 28 Root Attach Armor_%anim%_tribal.x Texture 0 Armor_male_tribal.png
+#########################
+
+In the section labelled :
+
+# ArmorClothing --------------------------------------
+Layer 5
+
+Paste everything between the '#'s :
+
+#########################
+    Value 28 Root
+            Subset 3 Texture 0 Armor_%anim%_tribal.png
+            Subset 6 Texture 0 Armor_%anim%_tribal.png
+            Subset 7 Texture 0 Armor_%anim%_tribal.png
+            Subset 8 Texture 0 Armor_%anim%_tribal.png
+#########################
