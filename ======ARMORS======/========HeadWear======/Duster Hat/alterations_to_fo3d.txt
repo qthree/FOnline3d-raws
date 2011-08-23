@@ -1,0 +1,11 @@
+In the section labelled :
+
+# Head --------------------------
+Layer 4
+
+Paste everything between the '#'s :
+
+#########################
+  Value 27 Root Attach Armor_%anim%_dusterhat.x Texture 0 Armor_male_cowboyhat_brown.png
+  Value 28 Root Attach Armor_%anim%_dusterhat.x Texture 0 Armor_male_cowboyhat_black.png
+#########################
