@@ -1,0 +1,13 @@
+In the section labelled :
+
+# Head --------------------------
+Layer 4
+
+Paste everything between the '#'s :
+
+#########################
+  Value 30 Root Attach Armor_%anim%_hockeymask.x Texture 0 Armor_all_hockeymask.png
+  Value 31 Root Attach Armor_%anim%_tophat.x Texture 0 Armor_all_tophat_skull.png
+  Value 32 Root Attach Armor_%anim%_tophat.x Texture 0 Armor_all_tophat_american.png
+  Value 33 Root Attach Armor_%anim%_spikedhelmet.x Texture 0 Armor_all_spikedhelmet.png
+#########################

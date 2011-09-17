@@ -1,0 +1,10 @@
+In the section labelled :
+
+# Head --------------------------
+Layer 4
+
+Paste everything between the '#'s :
+
+#########################
+  Value 29 Root Attach Armor_%anim%_weldingmask.x Texture 0 Armor_all_weldingmask.png
+#########################
